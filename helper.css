@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 20px; }
+.urgent { color: red; font-weight: bold; border: 1px solid red; padding: 5px; }
+#foodList { list-style: none; padding: 0; }
+li { padding: 10px; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; }
